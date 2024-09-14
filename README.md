@@ -1,4 +1,4 @@
-# plant_care_application
+# PlantPal - Flutter
 
 A mobile application developed using Flutter and Dart.
 
