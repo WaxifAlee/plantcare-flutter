@@ -1,0 +1,19 @@
+Section,Question,Question Type,Options
+Demographics,Age:,Multiple choice,Under 18; 18-24; 25-34; 35-44; 45-54; 55-64; 65 or older
+Demographics,Gender:,Multiple choice,Male; Female; Non-binary/Third gender; Prefer not to say
+Demographics,How often do you use plant care apps?,Multiple choice,Daily; Weekly; Monthly; Rarely; Never
+General Usage,How did you hear about PlantPal?,Multiple choice,Friend/Family; Social Media; Online Search; University/School; Other (please specify)
+General Usage,How long have you been using PlantPal?,Multiple choice,Less than a week; 1-4 weeks; 1-3 months; More than 3 months
+User Interface and Experience,How would you rate the overall design of PlantPal?,Multiple choice,Excellent; Good; Average; Poor; Very Poor
+User Interface and Experience,How easy is it to navigate through the app?,Multiple choice,Very Easy; Easy; Neutral; Difficult; Very Difficult
+User Interface and Experience,Are the colors and visuals of the app appealing to you?,Multiple choice,Yes; No
+User Interface and Experience,How would you rate the readability of the text in the app?,Multiple choice,Very Good; Good; Neutral; Poor; Very Poor
+User Interface and Experience,"Is the information provided in the app (plant care tips, notifications) useful?",Multiple choice,Very Useful; Useful; Neutral; Not Useful; Not Useful at All
+Features and Functionality,How satisfied are you with the plant care tips provided by the app?,Multiple choice,Very Satisfied; Satisfied; Neutral; Dissatisfied; Very Dissatisfied
+Features and Functionality,How timely are the notifications for plant care?,Multiple choice,Very Timely; Timely; Neutral; Untimely; Very Untimely
+Features and Functionality,Have you encountered any bugs or issues while using the app?,Multiple choice with description,Yes; No
+Features and Functionality,How likely are you to recommend PlantPal to a friend?,Multiple choice,Very Likely; Likely; Neutral; Unlikely; Very Unlikely
+Additional Feedback,What do you like most about PlantPal?,Paragraph,
+Additional Feedback,What do you like least about PlantPal?,Paragraph,
+Additional Feedback,Do you have any suggestions for improving the app?,Paragraph,
+Additional Feedback,Any other comments or feedback?,Paragraph,

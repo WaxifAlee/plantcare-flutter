@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399854354890",
+    "project_id": "plantpal-87d69",
+    "storage_bucket": "plantpal-87d69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399854354890:android:907c6c7d57c8297aec0f33",
+        "android_client_info": {
+          "package_name": "com.example.plant_care_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqJ0Ehls_V7_TuG7a8AoZpZaUPpPd6KA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
