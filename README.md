@@ -1,16 +1,14 @@
 # plant_care_application
 
-A new Flutter project.
+A mobile application developed using Flutter and Dart.
 
-## Getting Started
+## Plant Pal: Helps you track the health and care of your plants for better nourishment and growth with timely reminders and tips.
 
-This project is a starting point for a Flutter application.
+The project is open-source and independently built as my course requirement for  university. The application contains data from different plants
+along with their details and extra tips to help you take their better care.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Modules
+### User Login Authentication
+### Plant Search
+### Timely Reminders
+### Owned Plants List
